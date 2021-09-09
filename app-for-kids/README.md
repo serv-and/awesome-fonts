@@ -1,1 +1,1 @@
-![App for kids](img/app-for-kids.png)
+![App for kids](../img/app-for-kids.png)
